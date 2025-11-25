@@ -1,0 +1,1 @@
+save_face_button = ttk.Button(register_face_frame, text="Save", command=save_added_face)
